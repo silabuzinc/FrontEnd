@@ -1,0 +1,5 @@
+const d = {'Marcelo': 1.80, 'José':1.50, 'Oscar':1.70, 'Jorge': 1.40};
+
+var name = prompt("Ingrese un nombre");
+
+console.log(d[name])
